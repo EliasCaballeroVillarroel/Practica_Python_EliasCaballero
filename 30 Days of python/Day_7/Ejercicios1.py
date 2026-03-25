@@ -1,5 +1,6 @@
 """
 Ejercicios: Nivel 1
+Conjunto de ejercicios para practicar los conceptos de conjuntos en Python
 # Conjuntos
 it_companies = {'Facebook', 'Google', 'Microsoft', 'Apple', 'IBM', 'Oracle', 'Amazon'}
 A = {19, 22, 24, 20, 25, 26}

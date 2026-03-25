@@ -1,4 +1,5 @@
 """
+#Conjunto de ejercicios para practicar los conceptos de conjuntos en Python.
 Convierte la lista de edades a un conjunto y compara la longitud de la lista y la del conjunto: ¿cuál es mayor?
 Explica la diferencia entre estos tipos de datos: cadena, lista, tupla y conjunto
 Para la frase "Soy profesor, me gusta motivar y enseñar a las personas." ¿cuántas palabras únicas tiene? Usa split() y conjuntos para obtener las palabras únicas.

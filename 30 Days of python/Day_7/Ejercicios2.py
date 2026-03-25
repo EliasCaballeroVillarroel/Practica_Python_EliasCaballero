@@ -1,5 +1,6 @@
 """
 Ejercicios: Nivel 2
+#Conjunto de ejercicios para practicar los conceptos de conjuntos en Python.
 Concatena A y B
 Encuentra la intersección entre A y B
 ¿Es A un subconjunto de B?
